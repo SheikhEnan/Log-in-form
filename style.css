@@ -1,0 +1,21 @@
+.background{
+    
+    width:290px;
+    height: auto;
+    margin-top: 190px;
+    margin-left: 500px;
+    background-color: blueviolet;
+}
+
+
+h1{
+    text-align: center;
+}
+.gmail{
+    text-align: center;
+}
+.login{
+    text-align: center;
+    margin-top: 20px;
+    
+}
